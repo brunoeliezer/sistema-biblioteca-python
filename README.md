@@ -11,3 +11,5 @@ Renomear: Altera o nome de arquivos.
 Remover: Apaga documentos.
 
 Abrir: Abre o documento no leitor padrão do sistema.
+
+branch-teste
